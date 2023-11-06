@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ritik Rawat</h1>
 <h3 align="center">A passionate Android developer from India</h3>
-
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ritikrawat2447&label=Profile%20views&color=0e75b6&style=flat" alt="ritikrawat2447" /> </p>
 
 - 📝 Currently, I attend IMS Engineering College and will be graduating in 2024. My interests lie in Competitive Programming and Android app development. 
