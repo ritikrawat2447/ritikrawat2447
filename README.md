@@ -3,9 +3,9 @@
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ritikrawat2447&label=Profile%20views&color=0e75b6&style=flat" alt="ritikrawat2447" /> </p>
 
-- 📝 Currently, I attend IMS Engineering College and will be graduating in 2024. My interests lie in Competitive Programming and Android app development. 
-- 🌱 I’m currently learning **Web3**
-- 💬 Ask me about **Android , Programming**
+- 📝 Currently, working in a Service-Based Company. My interests lie in Android app development and Machine Learning. 
+- 🌱 I’m currently learning **Machine Learning and Deep Learning**
+- 💬 Ask me about **Android , Programming, Machine Learning**
 - 📫 How to reach me **ritikrawat2448@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
