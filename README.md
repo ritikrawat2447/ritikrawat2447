@@ -12,7 +12,7 @@ Backend Software Engineer | Java & Spring Boot | AWS | Distributed Systems
 
 ### 👨‍💻 About Me
 
-- 💼 Associate Software Engineer at
+- 💼 Associate Software Engineer
 - 🔧 Building backend systems with **Java, Spring Boot, PostgreSQL, Redis and AWS**
 - ☁️ Interested in **distributed systems, cloud infrastructure, system design and scalable backend services**
 - 🧠 **LeetCode Knight** — Rating **1924**, **970+ problems solved**
